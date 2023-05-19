@@ -1,0 +1,11 @@
+C:\Users\eda öncel\Desktop\program yukleniyor\bin\Debug\program yukleniyor.exe.config
+C:\Users\eda öncel\Desktop\program yukleniyor\bin\Debug\program yukleniyor.exe
+C:\Users\eda öncel\Desktop\program yukleniyor\bin\Debug\program yukleniyor.pdb
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.csproj.AssemblyReference.cache
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.csproj.SuggestedBindingRedirects.cache
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program_yukleniyor.Form1.resources
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program_yukleniyor.Properties.Resources.resources
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.csproj.GenerateResource.cache
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.csproj.CoreCompileInputs.cache
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.exe
+C:\Users\eda öncel\Desktop\program yukleniyor\obj\Debug\program yukleniyor.pdb
